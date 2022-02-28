@@ -30,7 +30,7 @@ namespace DuckItemPack
 {
     [BepInDependency("com.bepis.r2api", BepInDependency.DependencyFlags.HardDependency)]
     [NetworkCompatibility(CompatibilityLevel.EveryoneMustHaveMod, VersionStrictness.EveryoneNeedSameModVersion)]
-    [BepInPlugin("com.Borbo.DuckItemPack", "DuckItempack", "0.1.2")]
+    [BepInPlugin("com.Borbo.DuckItemPack", "DuckItempack", "0.1.4")]
     [R2APISubmoduleDependency(nameof(LoadoutAPI), nameof(LanguageAPI), nameof(BuffAPI), nameof(PrefabAPI), nameof(EffectAPI), nameof(ResourcesAPI), nameof(ItemAPI), nameof(RecalculateStatsAPI))]
 
     internal partial class Main : BaseUnityPlugin

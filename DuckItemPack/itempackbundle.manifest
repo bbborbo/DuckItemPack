@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1083099861
+CRC: 2810161845
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c0a5792fd48676aff9fd618e11601a97
+    Hash: 7257be06055cfc5fb4eedf1ee1443672
   TypeTreeHash:
     serializedVersion: 2
     Hash: 21747e4ee48f36c7a65f9afbfd77f392
@@ -31,9 +31,11 @@ Assets:
 - Assets/Models/Meshes/borboshield.fbx
 - Assets/Textures/Icons/Buff/texBuffCobaltShield.png
 - Assets/Textures/Materials/Item/matBeans.mat
-- Assets/Models/Prefabs/Item/CobaltShield.prefab
+- Assets/Models/DropPrefabs/Item/CobaltShield.prefab
+- Assets/Models/DropPrefabs/Item/Beans.prefab
 - Assets/Textures/Icons/Item/texIconCobaltShield.png
-- Assets/Models/Prefabs/Item/Beans.prefab
 - Assets/Textures/Icons/Item/texIconBeans.png
+- Assets/Models/DisplayPrefabs/Item/CobaltShieldDisplay.prefab
+- Assets/Models/DisplayPrefabs/Item/BeansDisplay.prefab
 - Assets/Textures/Materials/Item/matCobaltShield.mat
 Dependencies: []

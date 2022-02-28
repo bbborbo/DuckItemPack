@@ -12,7 +12,7 @@ namespace DuckItemPack.Items
     class ManaFlower : ItemBase
     {
         public static float cdrAmt = 0.08f;
-        public override string ItemName => "Nature's Gift";
+        public override string ItemName => "Nature\u2019s Gift";
 
         public override string ItemLangTokenName => "BORBOMANAFLOWER";
 
